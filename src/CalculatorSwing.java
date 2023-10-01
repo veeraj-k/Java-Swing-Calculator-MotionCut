@@ -132,7 +132,6 @@ class Calculator implements ActionListener {
             }
         }
         if(s.equals("Clr")){
-            System.out.println("asd");
             first=op=last="";
             out.setText(first+op+last);
         }
