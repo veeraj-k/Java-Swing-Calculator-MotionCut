@@ -5,4 +5,12 @@ A simple calculator project based on java and swing.It can be used to basic perf
 This project used swing for the user interface.It can be used to perform basic arithmatic operations like addition ,subtraction,multiplication,division and display the message.
 
 ## Screenshots
+[ScreenShot 1](https://github.com/veeraj-k/Java-Swing-Calculator-MotionCut/blob/main/screenshots/1.png)
 
+[Demo Video](https://github.com/veeraj-k/Java-Swing-Calculator-MotionCut/blob/main/screenshots/Calcultor.mkv)
+
+## Utilities Used
+
+* Java
+* Swing
+* IntelliJ
